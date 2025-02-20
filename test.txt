@@ -1,2 +1,1 @@
-my test file
-additional data here
+my test file, new content
