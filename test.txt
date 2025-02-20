@@ -3,3 +3,4 @@ my test file
 additional data here
 Adding this change on the conflict branch
 new content from main
+Writing out line 1
